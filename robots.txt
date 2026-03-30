@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /Beef_Burger.pdf
+Disallow: /Chicken_Burger.pdf
+Disallow: /Hamburger.pdf
+Disallow: /Spacial_Burger.pdf
+Disallow: /shop
+Disallow: /shop-details
+Disallow: /wishlist
+Disallow: /www.facebook.com/tr99d1
+
+Sitemap: https://easy-cook.vip/sitemap.xml

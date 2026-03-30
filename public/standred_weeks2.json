@@ -1,0 +1,3941 @@
+{
+    "1400": {
+        "week1": {
+            "saturday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week1_saturday_breakfast_1",
+                            "title": "Yoghurt & Granola",
+                            "description": "Pro 15 g  Carb 34 g  Fats 17 g  349 kcal",
+                            "price": 24.59,
+                            "image": "pngtree-yoghurt-granola-image-cereal-breakfast-bowl-png-image_12575637.png",
+                            "nutrition": {
+                                "Pro": 15,
+                                "Carb": 34,
+                                "Fats": 17,
+                                "kcal": 349
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week1_saturday_breakfast_1_ar",
+                            "title": "زبادي وجرانولا",
+                            "description": "بروتين 15 جم  كربوهيدرات 34 جم  دهون 17 جم  349 كالوري",
+                            "price": 24.59,
+                            "image": "./6.jpg",
+                            "nutrition": {
+                                "Pro": 15,
+                                "Carb": 34,
+                                "Fats": 17,
+                                "kcal": 349
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week1_saturday_lunch_1",
+                            "title": "Grilled Sirloin Steak",
+                            "description": "Pro 34 g  Carb 12 g  Fats 25 g  415 kcal",
+                            "price": 217.93,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 34,
+                                "Carb": 12,
+                                "Fats": 25,
+                                "kcal": 415
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week1_saturday_lunch_1_ar",
+                            "title": "شريحة لحم سيرليون مشوية",
+                            "description": "بروتين 34 جم  كربوهيدرات 12 جم  دهون 25 جم  415 كالوري",
+                            "price": 217.93,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 34,
+                                "Carb": 12,
+                                "Fats": 25,
+                                "kcal": 415
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_week1_saturday_dinner_1",
+                            "title": "Paprika Roasted Chicken",
+                            "description": "Pro 50 g  Carb 17.5 g  Fats 16 g  418 kcal",
+                            "price": 116.2,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 50,
+                                "Carb": 17.5,
+                                "Fats": 16,
+                                "kcal": 418
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week1_saturday_dinner_1_ar",
+                            "title": "صدر دجاج مشوي مع البابريكا المدخنة",
+                            "description": "بروتين 50 جم  كربوهيدرات 17.5 جم  دهون 16 جم  418 كالوري",
+                            "price": 116.2,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 50,
+                                "Carb": 17.5,
+                                "Fats": 16,
+                                "kcal": 418
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_week1_saturday_snack1_1",
+                            "title": "Popcorn (Large Cup)",
+                            "description": "Pro 3 g  Carb 18 g  Fats 1 g  93 kcal",
+                            "price": 7.06,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 3,
+                                "Carb": 18,
+                                "Fats": 1,
+                                "kcal": 93
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week1_saturday_snack1_1_ar",
+                            "title": "فشار مع رشة ملح (كوب كبير)",
+                            "description": "بروتين 3 جم  كربوهيدرات 18 جم  دهون 1 جم  93 كالوري",
+                            "price": 7.06,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 3,
+                                "Carb": 18,
+                                "Fats": 1,
+                                "kcal": 93
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_week1_saturday_snack2_1",
+                            "title": "Dark‑Chocolate Muffin Cake",
+                            "description": "Pro 5.5 g  Carb 20 g  Fats 4 g  140 kcal",
+                            "price": 146.71,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 5.5,
+                                "Carb": 20,
+                                "Fats": 4,
+                                "kcal": 140
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week1_saturday_snack2_1_ar",
+                            "title": "كعكة مافن الشوكولاتة الداكنة",
+                            "description": "بروتين 5.5 جم  كربوهيدرات 20 جم  دهون 4 جم  140 كالوري",
+                            "price": 146.71,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 5.5,
+                                "Carb": 20,
+                                "Fats": 4,
+                                "kcal": 140
+                            }
+                        }
+                    ]
+                }
+            },
+
+            "sunday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week1_sunday_breakfast_1",
+                            "title": "Fungi Omelette",
+                            "description": "Pro 21 g  Carb 19 g  Fats 17 g  313 kcal",
+                            "price": 69.01,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 21,
+                                "Carb": 19,
+                                "Fats": 17,
+                                "kcal": 313
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week1_sunday_breakfast_1_ar",
+                            "title": "بيض أومليت بالفطر",
+                            "description": "بروتين 21 جم  كربوهيدرات 19 جم  دهون 17 جم  313 كالوري",
+                            "price": 69.01,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 21,
+                                "Carb": 19,
+                                "Fats": 17,
+                                "kcal": 313
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week1_sunday_lunch_1",
+                            "title": "Roasted Turkey & Saffron Rice with Nuts",
+                            "description": "Pro 43 g  Carb 35 g  Fats 19 g  483 kcal",
+                            "price": 224.17,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 43,
+                                "Carb": 35,
+                                "Fats": 19,
+                                "kcal": 483
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week1_sunday_lunch_1_ar",
+                            "title": "شرائح ديك رومي مشوي مع أرز بالزعفران والمكسرات",
+                            "description": "بروتين 43 جم  كربوهيدرات 35 جم  دهون 19 جم  483 كالوري",
+                            "price": 224.17,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 43,
+                                "Carb": 35,
+                                "Fats": 19,
+                                "kcal": 483
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_week1_sunday_dinner_1",
+                            "title": "Mediterranean Shrimp Delight",
+                            "description": "Pro 42 g  Carb 18 g  Fats 11 g  390 kcal",
+                            "price": 149.6,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 42,
+                                "Carb": 18,
+                                "Fats": 11,
+                                "kcal": 390
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week1_sunday_dinner_1_ar",
+                            "title": "جمبري متبل على الطريقة المتوسطية",
+                            "description": "بروتين 42 جم  كربوهيدرات 18 جم  دهون 11 جم  390 كالوري",
+                            "price": 149.6,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 42,
+                                "Carb": 18,
+                                "Fats": 11,
+                                "kcal": 390
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_week1_sunday_snack1_1",
+                            "title": "Hummus Sticks",
+                            "description": "Pro 11 g  Carb 19 g  Fats 12 g  228 kcal",
+                            "price": 126.59,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 11,
+                                "Carb": 19,
+                                "Fats": 12,
+                                "kcal": 228
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week1_sunday_snack1_1_ar",
+                            "title": "أعواد الحمص مع جبنة بابريكا",
+                            "description": "بروتين 11 جم  كربوهيدرات 19 جم  دهون 12 جم  228 كالوري",
+                            "price": 126.59,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 11,
+                                "Carb": 19,
+                                "Fats": 12,
+                                "kcal": 228
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_week1_sunday_snack2_1",
+                            "title": "Strawberries Milkshake",
+                            "description": "Pro 11 g  Carb 22 g  Fats 1 g  140 kcal",
+                            "price": 33.58,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 11,
+                                "Carb": 22,
+                                "Fats": 1,
+                                "kcal": 140
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week1_sunday_snack2_1_ar",
+                            "title": "ميلك شيك الفراولة",
+                            "description": "بروتين 11 جم  كربوهيدرات 22 جم  دهون 1 جم  140 كالوري",
+                            "price": 33.58,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 11,
+                                "Carb": 22,
+                                "Fats": 1,
+                                "kcal": 140
+                            }
+                        }
+                    ]
+                }
+            },
+
+            "monday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week1_monday_breakfast_1",
+                            "title": "Smoked Salmon Sandwich",
+                            "description": "Pro 24 g  Carb 29.5 g  Fats 12 g  322 kcal",
+                            "price": 131.6,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 24,
+                                "Carb": 29.5,
+                                "Fats": 12,
+                                "kcal": 322
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week1_monday_breakfast_1_ar",
+                            "title": "ساندويتش سالمون مدخن",
+                            "description": "بروتين 24 جم  كربوهيدرات 29.5 جم  دهون 12 جم  322 كالوري",
+                            "price": 131.6,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 24,
+                                "Carb": 29.5,
+                                "Fats": 12,
+                                "kcal": 322
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week1_monday_lunch_1",
+                            "title": "Quinoa Bowl",
+                            "description": "Pro 35 g  Carb 30 g  Fats 16 g  404 kcal",
+                            "price": 106.28,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 35,
+                                "Carb": 30,
+                                "Fats": 16,
+                                "kcal": 404
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week1_monday_lunch_1_ar",
+                            "title": "سلطة الكينوا",
+                            "description": "بروتين 35 جم  كربوهيدرات 30 جم  دهون 16 جم  404 كالوري",
+                            "price": 106.28,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 35,
+                                "Carb": 30,
+                                "Fats": 16,
+                                "kcal": 404
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_week1_monday_dinner_1",
+                            "title": "Labnah Sandwich",
+                            "description": "Pro 10.5 g  Carb 46 g  Fats 20.5 g  410 kcal",
+                            "price": 86.84,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 10.5,
+                                "Carb": 46,
+                                "Fats": 20.5,
+                                "kcal": 410
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week1_monday_dinner_1_ar",
+                            "title": "ساندويتش لبنة",
+                            "description": "بروتين 10.5 جم  كربوهيدرات 46 جم  دهون 20.5 جم  410 كالوري",
+                            "price": 86.84,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 10.5,
+                                "Carb": 46,
+                                "Fats": 20.5,
+                                "kcal": 410
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_week1_monday_snack1_1",
+                            "title": "Cold Cucumber Soup with Mint",
+                            "description": "Pro 2.5 g  Carb 10.5 g  Fats 11.5 g  159 kcal",
+                            "price": 52.84,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 2.5,
+                                "Carb": 10.5,
+                                "Fats": 11.5,
+                                "kcal": 159
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week1_monday_snack1_1_ar",
+                            "title": "شوربة خيار ب النعناع",
+                            "description": "بروتين 2.5 جم  كربوهيدرات 10.5 جم  دهون 11.5 جم  159 كالوري",
+                            "price": 52.84,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 2.5,
+                                "Carb": 10.5,
+                                "Fats": 11.5,
+                                "kcal": 159
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_week1_monday_snack2_1",
+                            "title": "Fruit Jelly (Psyllium Husk)",
+                            "description": "Pro 1 g  Carb 24.5 g  Fats 0.5 g  110 kcal",
+                            "price": 62.48,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 1,
+                                "Carb": 24.5,
+                                "Fats": 0.5,
+                                "kcal": 110
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week1_monday_snack2_1_ar",
+                            "title": "جيلي الفواكه بقشور السيليوم",
+                            "description": "بروتين 1 جم  كربوهيدرات 24.5 جم  دهون 0.5 جم  110 كالوري",
+                            "price": 62.48,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 1,
+                                "Carb": 24.5,
+                                "Fats": 0.5,
+                                "kcal": 110
+                            }
+                        }
+                    ]
+                }
+            },
+
+            "tuesday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week1_tuesday_breakfast_1",
+                            "title": "Spinach Scrambled Eggs",
+                            "description": "Pro 18 g  Carb 18.5 g  Fats 15 g  290 kcal",
+                            "price": 71.23,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 18,
+                                "Carb": 18.5,
+                                "Fats": 15,
+                                "kcal": 290
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week1_tuesday_breakfast_1_ar",
+                            "title": "بيض مخفوق بالسبانخ",
+                            "description": "بروتين 18 جم  كربوهيدرات 18.5 جم  دهون 15 جم  290 كالوري",
+                            "price": 71.23,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 18,
+                                "Carb": 18.5,
+                                "Fats": 15,
+                                "kcal": 290
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week1_tuesday_lunch_1",
+                            "title": "Super Grilled Salmon",
+                            "description": "Pro 35 g  Carb 28.5 g  Fats 18 g  411 kcal",
+                            "price": 233.98,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 35,
+                                "Carb": 28.5,
+                                "Fats": 18,
+                                "kcal": 411
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week1_tuesday_lunch_1_ar",
+                            "title": "سلمون مشوي سوبر",
+                            "description": "بروتين 35 جم  كربوهيدرات 28.5 جم  دهون 18 جم  411 كالوري",
+                            "price": 233.98,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 35,
+                                "Carb": 28.5,
+                                "Fats": 18,
+                                "kcal": 411
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_tuesday_dinner_1",
+                            "title": "Chicken Breast & Spanish Rice",
+                            "description": "Pro 43 g  Carb 40 g  Fats 10 g  440 kcal",
+                            "price": 177.77,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 43,
+                                "Carb": 40,
+                                "Fats": 10,
+                                "kcal": 440
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_tuesday_dinner_1_ar",
+                            "title": "صدر دجاج مع أرز إسباني",
+                            "description": "بروتين 43 جم  كربوهيدرات 40 جم  دهون 10 جم  440 كالوري",
+                            "price": 177.77,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 43,
+                                "Carb": 40,
+                                "Fats": 10,
+                                "kcal": 440
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_tuesday_snack1_1",
+                            "title": "Mini Eggplant Pizza",
+                            "description": "Pro 10 g  Carb 18 g  Fats 11 g  211 kcal",
+                            "price": 53.33,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 10,
+                                "Carb": 18,
+                                "Fats": 11,
+                                "kcal": 211
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_tuesday_snack1_1_ar",
+                            "title": "ميني بيتزا باذنجان",
+                            "description": "بروتين 10 جم  كربوهيدرات 18 جم  دهون 11 جم  211 كالوري",
+                            "price": 53.33,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 10,
+                                "Carb": 18,
+                                "Fats": 11,
+                                "kcal": 211
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_tuesday_snack2_1",
+                            "title": "Chia Chocolate Mousse",
+                            "description": "Pro 6 g  Carb 28 g  Fats 8 g  190 kcal",
+                            "price": 85.01,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 6,
+                                "Carb": 28,
+                                "Fats": 8,
+                                "kcal": 190
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_tuesday_snack2_1_ar",
+                            "title": "موس الشيا بالشوكولاتة",
+                            "description": "بروتين 6 جم  كربوهيدرات 28 جم  دهون 8 جم  190 كالوري",
+                            "price": 85.01,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 6,
+                                "Carb": 28,
+                                "Fats": 8,
+                                "kcal": 190
+                            }
+                        }
+                    ]
+                }
+            },
+
+            "wednesday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_wednesday_breakfast_1",
+                            "title": "Chocolate & Bread",
+                            "description": "Pro 13.5 g  Carb 47 g  Fats 8.5 g  320 kcal",
+                            "price": 75.35,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 13.5,
+                                "Carb": 47,
+                                "Fats": 8.5,
+                                "kcal": 320
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_wednesday_breakfast_1_ar",
+                            "title": "شوكولاتة وخبز",
+                            "description": "بروتين 13.5 جم  كربوهيدرات 47 جم  دهون 8.5 جم  320 كالوري",
+                            "price": 75.35,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 13.5,
+                                "Carb": 47,
+                                "Fats": 8.5,
+                                "kcal": 320
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_wednesday_lunch_1",
+                            "title": "Moroccan Harira Soup",
+                            "description": "Pro 58 g  Carb 33 g  Fats 6 g  390 kcal",
+                            "price": 204.72,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 58,
+                                "Carb": 33,
+                                "Fats": 6,
+                                "kcal": 390
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_wednesday_lunch_1_ar",
+                            "title": "شوربة الحريرة المغربية الصحية",
+                            "description": "بروتين 58 جم  كربوهيدرات 33 جم  دهون 6 جم  390 كالوري",
+                            "price": 204.72,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 58,
+                                "Carb": 33,
+                                "Fats": 6,
+                                "kcal": 390
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_wednesday_dinner_1",
+                            "title": "Turkey Burger & Sweet Potato",
+                            "description": "Pro 35 g  Carb 38 g  Fats 12 g  400 kcal",
+                            "price": 253.53,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 35,
+                                "Carb": 38,
+                                "Fats": 12,
+                                "kcal": 400
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_wednesday_dinner_1_ar",
+                            "title": "برجر ديك رومي مع بطاطا حلوة",
+                            "description": "بروتين 35 جم  كربوهيدرات 38 جم  دهون 12 جم  400 كالوري",
+                            "price": 253.53,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 35,
+                                "Carb": 38,
+                                "Fats": 12,
+                                "kcal": 400
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_wednesday_snack1_1",
+                            "title": "Potato Sticks",
+                            "description": "Pro 4 g  Carb 27 g  Fats 6 g  178 kcal",
+                            "price": 10.76,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 4,
+                                "Carb": 27,
+                                "Fats": 6,
+                                "kcal": 178
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_wednesday_snack1_1_ar",
+                            "title": "أعواد البطاطس",
+                            "description": "بروتين 4 جم  كربوهيدرات 27 جم  دهون 6 جم  178 كالوري",
+                            "price": 10.76,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 4,
+                                "Carb": 27,
+                                "Fats": 6,
+                                "kcal": 178
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_wednesday_snack2_1",
+                            "title": "Oatmeal Carrot Cake",
+                            "description": "Pro 3.2 g  Carb 15.5 g  Fats 6 g  140 kcal",
+                            "price": 156.15,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 3.2,
+                                "Carb": 15.5,
+                                "Fats": 6,
+                                "kcal": 140
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_wednesday_snack2_1_ar",
+                            "title": "كعكة الشوفان بالجزر",
+                            "description": "بروتين 3.2 جم  كربوهيدرات 15.5 جم  دهون 6 جم  140 كالوري",
+                            "price": 156.15,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 3.2,
+                                "Carb": 15.5,
+                                "Fats": 6,
+                                "kcal": 140
+                            }
+                        }
+                    ]
+                }
+            },
+
+            "thursday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_thursday_breakfast_1",
+                            "title": "Eggplant / Cottage / Pistachio",
+                            "description": "Pro 11 g  Carb 13 g  Fats 23 g  303 kcal",
+                            "price": 49.7,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 11,
+                                "Carb": 13,
+                                "Fats": 23,
+                                "kcal": 303
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_thursday_breakfast_1_ar",
+                            "title": "بتنجان مع جبنة / فستق",
+                            "description": "بروتين 11 جم  كربوهيدرات 13 جم  دهون 23 جم  303 كالوري",
+                            "price": 49.7,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 11,
+                                "Carb": 13,
+                                "Fats": 23,
+                                "kcal": 303
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_thursday_lunch_1",
+                            "title": "Chicken Shawarma Wrap + Tomeya",
+                            "description": "Pro 34 g  Carb 42 g  Fats 21 g  493 kcal",
+                            "price": 212.19,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 34,
+                                "Carb": 42,
+                                "Fats": 21,
+                                "kcal": 493
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_thursday_lunch_1_ar",
+                            "title": "شاورما دجاج مع طومية",
+                            "description": "بروتين 34 جم  كربوهيدرات 42 جم  دهون 21 جم  493 كالوري",
+                            "price": 212.19,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 34,
+                                "Carb": 42,
+                                "Fats": 21,
+                                "kcal": 493
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_thursday_dinner_1",
+                            "title": "Seabass Fillet & Spanish Rice",
+                            "description": "Pro 52 g  Carb 28 g  Fats 10.5 g  415 kcal",
+                            "price": 218.62,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 52,
+                                "Carb": 28,
+                                "Fats": 10.5,
+                                "kcal": 415
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_thursday_dinner_1_ar",
+                            "title": "فيليه قاروص مع أرز إسباني",
+                            "description": "بروتين 52 جم  كربوهيدرات 28 جم  دهون 10.5 جم  415 كالوري",
+                            "price": 218.62,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 52,
+                                "Carb": 28,
+                                "Fats": 10.5,
+                                "kcal": 415
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_thursday_snack1_1",
+                            "title": "Baby Carrots + Labnah",
+                            "description": "Pro 6 g  Carb 13 g  Fats 7 g  139 kcal",
+                            "price": 23.98,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 6,
+                                "Carb": 13,
+                                "Fats": 7,
+                                "kcal": 139
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_thursday_snack1_1_ar",
+                            "title": "جزر صغير مع لبنة",
+                            "description": "بروتين 6 جم  كربوهيدرات 13 جم  دهون 7 جم  139 كالوري",
+                            "price": 23.98,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 6,
+                                "Carb": 13,
+                                "Fats": 7,
+                                "kcal": 139
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_thursday_snack2_1",
+                            "title": "Pecan‑Stuffed Dates (Chocolate‑dipped)",
+                            "description": "Pro 3 g  Carb 39 g  Fats 7 g  231 kcal",
+                            "price": 55.13,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 3,
+                                "Carb": 39,
+                                "Fats": 7,
+                                "kcal": 231
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_thursday_snack2_1_ar",
+                            "title": "تمر محشي بكان ومغطس بشوكولاتة",
+                            "description": "بروتين 3 جم  كربوهيدرات 39 جم  دهون 7 جم  231 كالوري",
+                            "price": 55.13,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 3,
+                                "Carb": 39,
+                                "Fats": 7,
+                                "kcal": 231
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+
+        "week2": {
+            "saturday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week2_saturday_breakfast_1",
+                            "title": "Egg Veggie Cookies",
+                            "description": "Pro 22 g  Carb 19 g  Fats 17 g  317 kcal",
+                            "price": 46.92,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 22,
+                                "Carb": 19,
+                                "Fats": 17,
+                                "kcal": 317
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_saturday_breakfast_1_ar",
+                            "title": "كوكيز بيض وخضار",
+                            "description": "بروتين 22 غ  كربوهيدرات 19 غ  دهون 17 غ  317 كالوري",
+                            "price": 46.92,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 22,
+                                "Carb": 19,
+                                "Fats": 17,
+                                "kcal": 317
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week2_saturday_lunch_1",
+                            "title": "Ma7shy Chicken Salad",
+                            "description": "Pro 41 g  Carb 40 g  Fats 18 g  486 kcal",
+                            "price": 111.01,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 41,
+                                "Carb": 40,
+                                "Fats": 18,
+                                "kcal": 486
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_saturday_lunch_1_ar",
+                            "title": "سلطة دجاج محشي",
+                            "description": "بروتين 41 غ  كربوهيدرات 40 غ  دهون 18 غ  486 كالوري",
+                            "price": 111.01,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 41,
+                                "Carb": 40,
+                                "Fats": 18,
+                                "kcal": 486
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_week2_saturday_dinner_1",
+                            "title": "Mediterranean Seafood Salad",
+                            "description": "Pro 47 g  Carb 25 g  Fats 18 g  449 kcal",
+                            "price": 84.21,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 47,
+                                "Carb": 25,
+                                "Fats": 18,
+                                "kcal": 449
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_saturday_dinner_1_ar",
+                            "title": "سلطة مأكولات بحرية متوسطية",
+                            "description": "بروتين 47 غ  كربوهيدرات 25 غ  دهون 18 غ  449 كالوري",
+                            "price": 84.21,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 47,
+                                "Carb": 25,
+                                "Fats": 18,
+                                "kcal": 449
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_week2_saturday_snack1_1",
+                            "title": "Brown Rice Cakes (3 pcs)",
+                            "description": "Pro 4.5 g  Carb 29 g  Fats 2.5 g  156.5 kcal",
+                            "price": 27.34,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 4.5,
+                                "Carb": 29,
+                                "Fats": 2.5,
+                                "kcal": 156.5
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_saturday_snack1_1_ar",
+                            "title": "كيك أرز بني (٣ قطع)",
+                            "description": "بروتين 4.5 غ  كربوهيدرات 29 غ  دهون 2.5 غ  156.5 كالوري",
+                            "price": 27.34,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 4.5,
+                                "Carb": 29,
+                                "Fats": 2.5,
+                                "kcal": 156.5
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_week2_saturday_snack2_1",
+                            "title": "Oatmeal Brownies",
+                            "description": "Pro 3.2 g  Carb 31 g  Fats 2.5 g  159 kcal",
+                            "price": 73.06,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 3.2,
+                                "Carb": 31,
+                                "Fats": 2.5,
+                                "kcal": 159
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_saturday_snack2_1_ar",
+                            "title": "براونيز الشوفان",
+                            "description": "بروتين 3.2 غ  كربوهيدرات 31 غ  دهون 2.5 غ  159 كالوري",
+                            "price": 73.06,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 3.2,
+                                "Carb": 31,
+                                "Fats": 2.5,
+                                "kcal": 159
+                            }
+                        }
+                    ]
+                }
+            },
+            "sunday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week2_sunday_breakfast_1",
+                            "title": "Whole-grain Waffle",
+                            "description": "Pro 13 g  Carb 54 g  Fats 5 g  313 kcal",
+                            "price": 91.53,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 13,
+                                "Carb": 54,
+                                "Fats": 5,
+                                "kcal": 313
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_sunday_breakfast_1_ar",
+                            "title": "وافل حبوب كاملة",
+                            "description": "بروتين 13 غ  كربوهيدرات 54 غ  دهون 5 غ  313 كالوري",
+                            "price": 91.53,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 13,
+                                "Carb": 54,
+                                "Fats": 5,
+                                "kcal": 313
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week2_sunday_lunch_1",
+                            "title": "Beef & Shrimp Satay + Basmati Rice",
+                            "description": "Pro 35 g  Carb 29 g  Fats 19 g  471 kcal",
+                            "price": 107.17,
+                            "image": "./7.jpg",
+                                         "nutrition": {
+                "Pro": 35,
+                "Carb": 29,
+                "Fats": 19,
+                "kcal": 471
+              }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_sunday_lunch_1_ar",
+                            "title": "ساتاي لحم و روبيان مع أرز بسمتي",
+                            "description": "بروتين 35 غ  كربوهيدرات 29 غ  دهون 19 غ  471 كالوري",
+                            "price": 107.17,
+                            "image": "./7.jpg",
+                               "nutrition": {
+                "Pro": 35,
+                "Carb": 29,
+                "Fats": 19,
+                "kcal": 471
+              }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_week2_sunday_dinner_1",
+                            "title": "Grilled Lemon-Chicken",
+                            "description": "Pro 53 g  Carb 29 g  Fats 8 g  415 kcal",
+                            "price": 42.2,
+                            "image": "./7.jpg",
+                               "nutrition": {
+                "Pro": 53,
+                "Carb": 29,
+                "Fats": 8,
+                "kcal": 415
+              }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_sunday_dinner_1_ar",
+                            "title": "دجاج مشوي بالليمون",
+                            "description": "بروتين 53 غ  كربوهيدرات 29 غ  دهون 8 غ  415 كالوري",
+                            "price": 42.2,
+                            "image": "./7.jpg",
+                             "nutrition": {
+                "Pro": 53,
+                "Carb": 29,
+                "Fats": 8,
+                "kcal": 415
+              }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_week2_sunday_snack1_1",
+                            "title": "Kobbeiah (NEW)",
+                            "description": "Pro 2.7 g  Carb 28 g  Fats 8 g  192 kcal",
+                            "price": 12.84,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 2.7,
+                                "Carb": 28,
+                                "Fats": 8,
+                                "kcal": 192
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_sunday_snack1_1_ar",
+                            "title": "كبة (جديد)",
+                            "description": "بروتين 2.7 غ  كربوهيدرات 28 غ  دهون 8 غ  192 كالوري",
+                            "price": 12.84,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 2.7,
+                                "Carb": 28,
+                                "Fats": 8,
+                                "kcal": 192
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_week2_sunday_snack2_1",
+                            "title": "Super Beet Smoothie",
+                            "description": "Pro 2.5 g  Carb 22 g  Fats 3.5 g  130 kcal",
+                            "price": 26.62,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 2.5,
+                                "Carb": 22,
+                                "Fats": 3.5,
+                                "kcal": 130
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_sunday_snack2_1_ar",
+                            "title": "سموذي الشمندر السوبر",
+                            "description": "بروتين 2.5 غ  كربوهيدرات 22 غ  دهون 3.5 غ  130 كالوري",
+                            "price": 26.62,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 2.5,
+                                "Carb": 22,
+                                "Fats": 3.5,
+                                "kcal": 130
+                            }
+                        }
+                    ]
+                }
+            },
+            "monday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week2_monday_breakfast_1",
+                            "title": "Scrambled Eggs with Pastrami",
+                            "description": "Pro 23 g  Carb 15 g  Fats 17 g  305 kcal",
+                            "price": 84.88,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 23,
+                                "Carb": 15,
+                                "Fats": 17,
+                                "kcal": 305
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_monday_breakfast_1_ar",
+                            "title": "بيض مخفوق مع بسطرمة",
+                            "description": "بروتين 23 غ  كربوهيدرات 15 غ  دهون 17 غ  305 كالوري",
+                            "price": 84.88,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 23,
+                                "Carb": 15,
+                                "Fats": 17,
+                                "kcal": 305
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week2_monday_lunch_1",
+                            "title": "Koshary with Cauliflower (NEW)",
+                            "description": "Pro 17 g  Carb 65 g  Fats 14 g  454 kcal",
+                            "price": 95.46,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 17,
+                                "Carb": 65,
+                                "Fats": 14,
+                                "kcal": 454
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_monday_lunch_1_ar",
+                            "title": "كشري بالقرنبيط (جديد)",
+                            "description": "بروتين 17 غ  كربوهيدرات 65 غ  دهون 14 غ  454 كالوري",
+                            "price": 95.46,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 17,
+                                "Carb": 65,
+                                "Fats": 14,
+                                "kcal": 454
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_week2_monday_dinner_1",
+                            "title": "Veggies Omelette / Tortilla",
+                            "description": "Pro xx g  Carb xx g  Fats xx g  xx kcal",
+                            "price": 61.79,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": "xx",
+                                "Carb": "xx",
+                                "Fats": "xx",
+                                "kcal": "xx"
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_monday_dinner_1_ar",
+                            "title": "أومليت خضار / تورتيلا",
+                            "description": "بروتين xx غ  كربوهيدرات xx غ  دهون xx غ  xx كالوري",
+                            "price": 61.79,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": "xx",
+                                "Carb": "xx",
+                                "Fats": "xx",
+                                "kcal": "xx"
+                            }
+
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_week2_monday_snack1_1",
+                            "title": "Tomato Gazpacho Soup",
+                            "description": "Pro 2.5 g  Carb 12 g  Fats 5 g  103 kcal",
+                            "price": 38.4,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 2.5,
+                                "Carb": 12,
+                                "Fats": 5,
+                                "kcal": 103
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_monday_snack1_1_ar",
+                            "title": "حساء جازباتشو طماطم",
+                            "description": "بروتين 2.5 غ  كربوهيدرات 12 غ  دهون 5 غ  103 كالوري",
+                            "price": 38.4,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 2.5,
+                                "Carb": 12,
+                                "Fats": 5,
+                                "kcal": 103
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_week2_monday_snack2_1",
+                            "title": "Mhlabeya (NEW)",
+                            "description": "Pro 3.5 g  Carb 14 g  Fats 11 g  179 kcal",
+                            "price": 14.18,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 3.5,
+                                "Carb": 14,
+                                "Fats": 11,
+                                "kcal": 179
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_monday_snack2_1_ar",
+                            "title": "محلبية (جديد)",
+                            "description": "بروتين 3.5 غ  كربوهيدرات 14 غ  دهون 11 غ  179 كالوري",
+                            "price": 14.18,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 3.5,
+                                "Carb": 14,
+                                "Fats": 11,
+                                "kcal": 179
+                            }
+                        }
+                    ]
+                }
+            },
+            "tuesday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week2_tuesday_breakfast_1",
+                            "title": "Goat Cheese / Avocado",
+                            "description": "Pro 12 g  Carb 23 g  Fats 24 g  356 kcal",
+                            "price": 140.7,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 12,
+                                "Carb": 23,
+                                "Fats": 24,
+                                "kcal": 356
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_tuesday_breakfast_1_ar",
+                            "title": "جبن ماعز مع أفوكادو",
+                            "description": "بروتين 12 غ  كربوهيدرات 23 غ  دهون 24 غ  356 كالوري",
+                            "price": 140.7,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 12,
+                                "Carb": 23,
+                                "Fats": 24,
+                                "kcal": 356
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week2_tuesday_lunch_1",
+                            "title": "EASY COOK Minced Beef",
+                            "description": "Pro 35 g  Carb 15 g  Fats 17 g  365 kcal",
+                            "price": 117.95,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 35,
+                                "Carb": 15,
+                                "Fats": 17,
+                                "kcal": 365
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_tuesday_lunch_1_ar",
+                            "title": "لحم مفروم إيزي كوك",
+                            "description": "بروتين 35 غ  كربوهيدرات 15 غ  دهون 17 غ  365 كالوري",
+                            "price": 117.95,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 35,
+                                "Carb": 15,
+                                "Fats": 17,
+                                "kcal": 365
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_week2_tuesday_dinner_1",
+                            "title": "Spaghetti Zucchini / Shrimps",
+                            "description": "Pro 44.5 g  Carb 34 g  Fats 12 g  422 kcal",
+                            "price": 145.94,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 44.5,
+                                "Carb": 34,
+                                "Fats": 12,
+                                "kcal": 422
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_tuesday_dinner_1_ar",
+                            "title": "سباغيتي كوسة مع جمبري",
+                            "description": "بروتين 44.5 غ  كربوهيدرات 34 غ  دهون 12 غ  422 كالوري",
+                            "price": 145.94,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 44.5,
+                                "Carb": 34,
+                                "Fats": 12,
+                                "kcal": 422
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_week2_tuesday_snack1_1",
+                            "title": "Cheese Sambousak (NEW)",
+                            "description": "Pro 8 g  Carb 16 g  Fats 7 g  159 kcal",
+                            "price": 12.84,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 8,
+                                "Carb": 16,
+                                "Fats": 7,
+                                "kcal": 159
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_tuesday_snack1_1_ar",
+                            "title": "سمبوسك بالجبن (جديد)",
+                            "description": "بروتين 8 غ  كربوهيدرات 16 غ  دهون 7 غ  159 كالوري",
+                            "price": 12.84,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 8,
+                                "Carb": 16,
+                                "Fats": 7,
+                                "kcal": 159
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_week2_tuesday_snack2_1",
+                            "title": "Chocolate Cookies (30g)",
+                            "description": "Pro 2 g  Carb 16 g  Fats 7 g  135 kcal",
+                            "price": 267.01,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 2,
+                                "Carb": 16,
+                                "Fats": 7,
+                                "kcal": 135
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_tuesday_snack2_1_ar",
+                            "title": "كوكيز شوكولاتة (30غ)",
+                            "description": "بروتين 2 غ  كربوهيدرات 16 غ  دهون 7 غ  135 كالوري",
+                            "price": 267.01,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 2,
+                                "Carb": 16,
+                                "Fats": 7,
+                                "kcal": 135
+                            }
+                        }
+                    ]
+                }
+            },
+            "wednesday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week2_wednesday_breakfast_1",
+                            "title": "EasyCook Foul & Falafel",
+                            "description": "Pro 16 g  Carb 44 g  Fats 13 g  357 kcal",
+                            "price": 69.87,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 16,
+                                "Carb": 44,
+                                "Fats": 13,
+                                "kcal": 357
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_wednesday_breakfast_1_ar",
+                            "title": "فول وفلافل إيزي كوك",
+                            "description": "بروتين 16 غ  كربوهيدرات 44 غ  دهون 13 غ  357 كالوري",
+                            "price": 69.87,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 16,
+                                "Carb": 44,
+                                "Fats": 13,
+                                "kcal": 357
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week2_wednesday_lunch_1",
+                            "title": "Mini Beef Burger",
+                            "description": "Pro 26 g  Carb 49 g  Fats 19 g  471 kcal",
+                            "price": 169.39,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 26,
+                                "Carb": 49,
+                                "Fats": 19,
+                                "kcal": 471
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_wednesday_lunch_1_ar",
+                            "title": "ميني بيف برجر مع سلطة كولسلو",
+                            "description": "بروتين 26 غ  كربوهيدرات 49 غ  دهون 19 غ  471 كالوري",
+                            "price": 169.39,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 26,
+                                "Carb": 49,
+                                "Fats": 19,
+                                "kcal": 471
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_week2_wednesday_dinner_1",
+                            "title": "Pumpkin Seeds (30g)",
+                            "description": "Pro 7 g  Carb 44 g  Fats 12 g  152 kcal",
+                            "price": 131.3,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 7,
+                                "Carb": 44,
+                                "Fats": 12,
+                                "kcal": 152
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_wednesday_dinner_1_ar",
+                            "title": "بذور اليقطين (30غ)",
+                            "description": "بروتين 7 غ  كربوهيدرات 44 غ  دهون 12 غ  152 كالوري",
+                            "price": 131.3,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 7,
+                                "Carb": 44,
+                                "Fats": 12,
+                                "kcal": 152
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_week2_wednesday_snack1_1",
+                            "title": "Cinnamon Cake",
+                            "description": "Pro 4 g  Carb 21.5 g  Fats 4.5 g 144 kcal",
+                            "price": 67.9,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 4,
+                                "Carb": 21.5,
+                                "Fats": 4.5,
+                                "kcal": 144
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_wednesday_snack1_1_ar",
+                            "title": "كيكة القرفة",
+                            "description": "بروتين 4 غ  كربوهيدرات 21.5 غ  دهون 4.5 غ  144 كالوري",
+                            "price": 67.9,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 4,
+                                "Carb": 21.5,
+                                "Fats": 4.5,
+                                "kcal": 144
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_week2_wednesday_snack2_1",
+                            "title": "--",
+                            "description": "--",
+                            "price": 0,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 0,
+                                "Carb": 0,
+                                "Fats": 0,
+                                "kcal": 0
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_wednesday_snack2_1_ar",
+                            "title": "--",
+                            "description": "--",
+                            "price": 0,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 0,
+                                "Carb": 0,
+                                "Fats": 0,
+                                "kcal": 0
+                            }
+                        }
+                    ]
+                }
+            },
+            "thursday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week2_thursday_breakfast_1",
+                            "title": "Pumpkin Quinoa Bowl",
+                            "description": "Pro 9 g  Carb 42 g  Fats 8.5 g  280 kcal",
+                            "price": 81.99,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 9,
+                                "Carb": 42,
+                                "Fats": 8.5,
+                                "kcal": 280
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_thursday_breakfast_1_ar",
+                            "title": "وعاء كينوا بقرع",
+                            "description": "بروتين 9 غ  كربوهيدرات 42 غ  دهون 8.5 غ  280 كالوري",
+                            "price": 81.99,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 9,
+                                "Carb": 42,
+                                "Fats": 8.5,
+                                "kcal": 280
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week2_thursday_lunch_1",
+                            "title": "Mix Grill + Grilled Veggies (NEW)",
+                            "description": "Pro 57 g  Carb 13 g  Fats 18 g  442 kcal",
+                            "price": 341.79,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 57,
+                                "Carb": 13,
+                                "Fats": 18,
+                                "kcal": 442
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_thursday_lunch_1_ar",
+                            "title": "مشاوي مشكلة مع خضار (جديد)",
+                            "description": "بروتين 57 غ  كربوهيدرات 13 غ  دهون 18 غ  442 كالوري",
+                            "price": 341.79,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 57,
+                                "Carb": 13,
+                                "Fats": 18,
+                                "kcal": 442
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_week2_thursday_dinner_1",
+                            "title": "Greek Yoghurt",
+                            "description": "Pro 24 g  Carb 34 g  Fats 9 g  305 kcal",
+                            "price": 39.38,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 24,
+                                "Carb": 34,
+                                "Fats": 9,
+                                "kcal": 305
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_thursday_dinner_1_ar",
+                            "title": "زبادي يوناني",
+                            "description": "بروتين 24 غ  كربوهيدرات 34 غ  دهون 9 غ  305 كالوري",
+                            "price": 39.38,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 24,
+                                "Carb": 34,
+                                "Fats": 9,
+                                "kcal": 305
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_week2_thursday_snack1_1",
+                            "title": "Sliced Bell Pepper + Guacamole (2 tbsp)",
+                            "description": "Pro 2.5 g  Carb 15 g  Fats 8 g  122 kcal",
+                            "price": 53.17,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 2.5,
+                                "Carb": 15,
+                                "Fats": 8,
+                                "kcal": 122
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_thursday_snack1_1_ar",
+                            "title": "شرائح فلفل رومي مع جواكامولي (ملعقتين)",
+                            "description": "بروتين 2.5 غ  كربوهيدرات 15 غ  دهون 8 غ  122 كالوري",
+                            "price": 53.17,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 2.5,
+                                "Carb": 15,
+                                "Fats": 8,
+                                "kcal": 122
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_week2_thursday_snack2_1",
+                            "title": "Chocolate Crepe",
+                            "description": "Pro 17 g  Carb 27 g  Fats 38 g  203 kcal",
+                            "price": 134.79,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 17,
+                                "Carb": 27,
+                                "Fats": 38,
+                                "kcal": 203
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week2_thursday_snack2_1_ar",
+                            "title": "كريب شوكولاتة",
+                            "description": "بروتين 17 غ  كربوهيدرات 27 غ  دهون 38 غ  203 كالوري",
+                            "price": 134.79,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 17,
+                                "Carb": 27,
+                                "Fats": 38,
+                                "kcal": 203
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "week3": {
+            "saturday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week3_saturday_breakfast_1",
+                            "title": "Egg-White Omelette",
+                            "description": "Pro 26 g  Carb 33 g  Fats 5 g  281 kcal",
+                            "price": 93.58,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 26,
+                                "Carb": 33,
+                                "Fats": 5,
+                                "kcal": 281
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_saturday_breakfast_1",
+                            "title": "بيض بالمشروم",
+                            "description": "بروتين 26 ج  كربوهيدرات 33 ج  دهون 5 ج  281 سعر",
+                            "price": 93.58,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 26,
+                                "Carb": 33,
+                                "Fats": 5,
+                                "kcal": 281
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week3_saturday_lunch_1",
+                            "title": "Musakaa with minced beef + white rice + green salad",
+                            "description": "Pro 32 g  Carb 39 g  Fats 16 g  428 kcal",
+                            "price": 178.22,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 32,
+                                "Carb": 39,
+                                "Fats": 16,
+                                "kcal": 428
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_saturday_lunch_1",
+                            "title": "مسقعة باللحم المفروم مع أرز أبيض وسلطة خضراء",
+                            "description": "بروتين 32 ج  كربوهيدرات 39 ج  دهون 16 ج  428 سعر",
+                            "price": 178.22,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 32,
+                                "Carb": 39,
+                                "Fats": 16,
+                                "kcal": 428
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_week3_saturday_dinner_1",
+                            "title": "Roasted Turkey / Seeds Crackers",
+                            "description": "Pro 43 g  Carb 30 g  Fats 17 g  445 kcal",
+                            "price": 140.32,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 43,
+                                "Carb": 30,
+                                "Fats": 17,
+                                "kcal": 445
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_saturday_dinner_1",
+                            "title": "شرائح الديك الرومي المشوي / مقرمشات بالبذور",
+                            "description": "بروتين 43 ج  كربوهيدرات 30 ج  دهون 17 ج  445 سعر",
+                            "price": 140.32,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 43,
+                                "Carb": 30,
+                                "Fats": 17,
+                                "kcal": 445
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_week3_saturday_snack1_1",
+                            "title": "Popcorn (coconut-oil, cinnamon, vanilla)",
+                            "description": "Pro 2 g  Carb 16.5 g  Fats 7 g  137 kcal",
+                            "price": 16.06,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 2,
+                                "Carb": 16.5,
+                                "Fats": 7,
+                                "kcal": 137
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_saturday_snack1_1",
+                            "title": "فشار بزيت جوز الهند والقرفة والفانيليا",
+                            "description": "بروتين 2 ج  كربوهيدرات 16.5 ج  دهون 7 ج  137 سعر",
+                            "price": 16.06,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 2,
+                                "Carb": 16.5,
+                                "Fats": 7,
+                                "kcal": 137
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_week3_saturday_snack2_1",
+                            "title": "Lotus Cheesecake",
+                            "description": "Pro 6 g  Carb 21 g  Fats 10 g  198 kcal",
+                            "price": 111.74,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 6,
+                                "Carb": 21,
+                                "Fats": 10,
+                                "kcal": 198
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_saturday_snack2_1",
+                            "title": "تشيز كيك اللوتس",
+                            "description": "بروتين 6 ج  كربوهيدرات 21 ج  دهون 10 ج  198 سعر",
+                            "price": 111.74,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 6,
+                                "Carb": 21,
+                                "Fats": 10,
+                                "kcal": 198
+                            }
+                        }
+                    ]
+                }
+            },
+
+            "sunday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week3_sunday_breakfast_1",
+                            "title": "Belila",
+                            "description": "Pro 15 g  Carb 58 g  Fats 9 g  373 kcal",
+                            "price": 45.65,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 15,
+                                "Carb": 58,
+                                "Fats": 9,
+                                "kcal": 373
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_sunday_breakfast_1",
+                            "title": "بليلة بالمكسرات",
+                            "description": "بروتين 15 ج  كربوهيدرات 58 ج  دهون 9 ج  373 سعر",
+                            "price": 45.65,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 15,
+                                "Carb": 58,
+                                "Fats": 9,
+                                "kcal": 373
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week3_sunday_lunch_1",
+                            "title": "Beef Piccata with mushrooms + sautéed veggies",
+                            "description": "Pro 34 g  Carb 32 g  Fats 21 g  453 kcal",
+                            "price": 225.82,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 34,
+                                "Carb": 32,
+                                "Fats": 21,
+                                "kcal": 453
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_sunday_lunch_1",
+                            "title": "بيكاتا لحم بقري مع خضار سوتيه",
+                            "description": "بروتين 34 ج  كربوهيدرات 32 ج  دهون 21 ج  453 سعر",
+                            "price": 225.82,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 34,
+                                "Carb": 32,
+                                "Fats": 21,
+                                "kcal": 453
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_week3_sunday_dinner_1",
+                            "title": "Pasta / Chicken Breast",
+                            "description": "Pro 49 g  Carb 25 g  Fats 9 g  390 kcal",
+                            "price": 149.14,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 49,
+                                "Carb": 25,
+                                "Fats": 9,
+                                "kcal": 390
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_sunday_dinner_1",
+                            "title": "صدور دجاج مع باستا",
+                            "description": "بروتين 49 ج  كربوهيدرات 25 ج  دهون 9 ج  390 سعر",
+                            "price": 149.14,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 49,
+                                "Carb": 25,
+                                "Fats": 9,
+                                "kcal": 390
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_week3_sunday_snack1_1",
+                            "title": "Rocca Pomegranate Salad",
+                            "description": "Pro 4 g  Carb 21 g  Fats 10 g  190 kcal",
+                            "price": 154.46,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 4,
+                                "Carb": 21,
+                                "Fats": 10,
+                                "kcal": 190
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_sunday_snack1_1",
+                            "title": "سلطة جرجير ورمان",
+                            "description": "بروتين 4 ج  كربوهيدرات 21 ج  دهون 10 ج  190 سعر",
+                            "price": 154.46,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 4,
+                                "Carb": 21,
+                                "Fats": 10,
+                                "kcal": 190
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_week3_sunday_snack2_1",
+                            "title": "Chocolate Vanilla Protein Shake",
+                            "description": "Pro 25 g  Carb 5 g  Fats 4 g  156 kcal",
+                            "price": 70.61,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 25,
+                                "Carb": 5,
+                                "Fats": 4,
+                                "kcal": 156
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_sunday_snack2_1",
+                            "title": "ميلك شيك بروتين بالفانيليا والشوكولاتة",
+                            "description": "بروتين 25 ج  كربوهيدرات 5 ج  دهون 4 ج  156 سعر",
+                            "price": 70.61,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 25,
+                                "Carb": 5,
+                                "Fats": 4,
+                                "kcal": 156
+                            }
+                        }
+                    ]
+                }
+            },
+
+            "monday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week3_monday_breakfast_1",
+                            "title": "Cottage & Eggplant Dip / Veggies",
+                            "description": "Pro 13.5 g  Carb 26 g  Fats 17 g  313 kcal",
+                            "price": 44.63,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 13.5,
+                                "Carb": 26,
+                                "Fats": 17,
+                                "kcal": 313
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_monday_breakfast_1",
+                            "title": "جبنة مع باذنجان وفلفل مشوي",
+                            "description": "بروتين 13.5 ج  كربوهيدرات 26 ج  دهون 17 ج  313 سعر",
+                            "price": 44.63,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 13.5,
+                                "Carb": 26,
+                                "Fats": 17,
+                                "kcal": 313
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week3_monday_lunch_1",
+                            "title": "Shish Tawook",
+                            "description": "Pro 42 g  Carb 39 g  Fats 9 g  405 kcal",
+                            "price": 139.52,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 42,
+                                "Carb": 39,
+                                "Fats": 9,
+                                "kcal": 405
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_monday_lunch_1",
+                            "title": "شيش طاووق",
+                            "description": "بروتين 42 ج  كربوهيدرات 39 ج  دهون 9 ج  405 سعر",
+                            "price": 139.52,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 42,
+                                "Carb": 39,
+                                "Fats": 9,
+                                "kcal": 405
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_week3_monday_dinner_1",
+                            "title": "Grilled Fish Fillet",
+                            "description": "Pro 56 g  Carb 17 g  Fats 11 g  397 kcal",
+                            "price": 162.23,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 56,
+                                "Carb": 17,
+                                "Fats": 11,
+                                "kcal": 397
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_monday_dinner_1",
+                            "title": "سمك فيليه مشوي",
+                            "description": "بروتين 56 ج  كربوهيدرات 17 ج  دهون 11 ج  397 سعر",
+                            "price": 162.23,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 56,
+                                "Carb": 17,
+                                "Fats": 11,
+                                "kcal": 397
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_week3_monday_snack1_1",
+                            "title": "Broccoli Soup",
+                            "description": "Pro 5 g  Carb 12 g  Fats 3 g  95 kcal",
+                            "price": 11.54,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 5,
+                                "Carb": 12,
+                                "Fats": 3,
+                                "kcal": 95
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_monday_snack1_1",
+                            "title": "شوربة بروكلي",
+                            "description": "بروتين 5 ج  كربوهيدرات 12 ج  دهون 3 ج  95 سعر",
+                            "price": 11.54,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 5,
+                                "Carb": 12,
+                                "Fats": 3,
+                                "kcal": 95
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_week3_monday_snack2_1",
+                            "title": "Kiwi Chia Pudding",
+                            "description": "Pro 5 g  Carb 20 g  Fats 11 g  190 kcal",
+                            "price": 87.74,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 5,
+                                "Carb": 20,
+                                "Fats": 11,
+                                "kcal": 190
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_monday_snack2_1",
+                            "title": "بودينغ كيوي وبذور الشيا",
+                            "description": "بروتين 5 ج  كربوهيدرات 20 ج  دهون 11 ج  190 سعر",
+                            "price": 87.74,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 5,
+                                "Carb": 20,
+                                "Fats": 11,
+                                "kcal": 190
+                            }
+                        }
+                    ]
+                }
+            },
+
+            "tuesday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week3_tuesday_breakfast_1",
+                            "title": "Potato & Cheese",
+                            "description": "Pro 19 g  Carb 39 g  Fats 15 g  367 kcal",
+                            "price": 29.09,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 19,
+                                "Carb": 39,
+                                "Fats": 15,
+                                "kcal": 367
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_tuesday_breakfast_1",
+                            "title": "بطاطس بالجبنة",
+                            "description": "بروتين 19 ج  كربوهيدرات 39 ج  دهون 15 ج  367 سعر",
+                            "price": 29.09,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 19,
+                                "Carb": 39,
+                                "Fats": 15,
+                                "kcal": 367
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week3_tuesday_lunch_1",
+                            "title": "Pasta with Béchamel & minced beef",
+                            "description": "Pro 28 g  Carb 46 g  Fats 22 g  494 kcal",
+                            "price": 184.15,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 28,
+                                "Carb": 46,
+                                "Fats": 22,
+                                "kcal": 494
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_tuesday_lunch_1",
+                            "title": "مكرونة بشاميل ولحم مفروم",
+                            "description": "بروتين 28 ج  كربوهيدرات 46 ج  دهون 22 ج  494 سعر",
+                            "price": 184.15,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 28,
+                                "Carb": 46,
+                                "Fats": 22,
+                                "kcal": 494
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_week3_tuesday_dinner_1",
+                            "title": "Club Sandwich",
+                            "description": "Pro 29 g  Carb 34 g  Fats 16 g  396 kcal",
+                            "price": 193.9,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 29,
+                                "Carb": 34,
+                                "Fats": 16,
+                                "kcal": 396
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_tuesday_dinner_1",
+                            "title": "كلوب ساندويتش",
+                            "description": "بروتين 29 ج  كربوهيدرات 34 ج  دهون 16 ج  396 سعر",
+                            "price": 193.9,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 29,
+                                "Carb": 34,
+                                "Fats": 16,
+                                "kcal": 396
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_week3_tuesday_snack1_1",
+                            "title": "Veggies Springrolls",
+                            "description": "Pro 29 g  Carb 34 g  Fats 16 g  396 kcal",
+                            "price": 50.06,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 29,
+                                "Carb": 34,
+                                "Fats": 16,
+                                "kcal": 396
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_tuesday_snack1_1",
+                            "title": "سبرنج رول بالخضار",
+                            "description": "بروتين 29 ج  كربوهيدرات 34 ج  دهون 16 ج  396 سعر",
+                            "price": 50.06,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 29,
+                                "Carb": 34,
+                                "Fats": 16,
+                                "kcal": 396
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_week3_tuesday_snack2_1",
+                            "title": "Chocolate Coffee Energy Bites",
+                            "description": "Pro 1.5 g  Carb 6.5 g  Fats 2 g  150 kcal",
+                            "price": 97.11,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 1.5,
+                                "Carb": 6.5,
+                                "Fats": 2,
+                                "kcal": 150
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_tuesday_snack2_1",
+                            "title": "كوكيز القهوة والشوكولاتة",
+                            "description": "بروتين 1.5 ج  كربوهيدرات 6.5 ج  دهون 2 ج  150 سعر",
+                            "price": 97.11,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 1.5,
+                                "Carb": 6.5,
+                                "Fats": 2,
+                                "kcal": 150
+                            }
+                        }
+                    ]
+                }
+            },
+
+            "wednesday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week3_wednesday_breakfast_1",
+                            "title": "Eggplant / Labnah / Almonds",
+                            "description": "Pro 9.5 g  Carb 20.5 g  Fats 26 g  354 kcal",
+                            "price": 64.35,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 9.5,
+                                "Carb": 20.5,
+                                "Fats": 26,
+                                "kcal": 354
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_wednesday_breakfast_1",
+                            "title": "باذنجان مع لبنة ولوز",
+                            "description": "بروتين 9.5 ج  كربوهيدرات 20.5 ج  دهون 26 ج  354 سعر",
+                            "price": 64.35,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 9.5,
+                                "Carb": 20.5,
+                                "Fats": 26,
+                                "kcal": 354
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week3_wednesday_lunch_1",
+                            "title": "Grilled Chicken Cordon Bleu",
+                            "description": "Pro 51 g  Carb 8 g  Fats 23 g  443 kcal",
+                            "price": 342.17,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 51,
+                                "Carb": 8,
+                                "Fats": 23,
+                                "kcal": 443
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_wednesday_lunch_1",
+                            "title": "دجاج كوردن بلو مشوي",
+                            "description": "بروتين 51 ج  كربوهيدرات 8 ج  دهون 23 ج  443 سعر",
+                            "price": 342.17,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 51,
+                                "Carb": 8,
+                                "Fats": 23,
+                                "kcal": 443
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_week3_wednesday_dinner_1",
+                            "title": "Omelette with Oats",
+                            "description": "Pro 30 g  Carb 18 g  Fats 24 g  408 kcal",
+                            "price": 100.67,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 30,
+                                "Carb": 18,
+                                "Fats": 24,
+                                "kcal": 408
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_wednesday_dinner_1",
+                            "title": "أومليت بالشوفان والخضار",
+                            "description": "بروتين 30 ج  كربوهيدرات 18 ج  دهون 24 ج  408 سعر",
+                            "price": 100.67,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 30,
+                                "Carb": 18,
+                                "Fats": 24,
+                                "kcal": 408
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_week3_wednesday_snack1_1",
+                            "title": "Savory Crackers",
+                            "description": "Pro 4 g  Carb 7 g  Fats 8 g  116 kcal",
+                            "price": 65.58,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 4,
+                                "Carb": 7,
+                                "Fats": 8,
+                                "kcal": 116
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_wednesday_snack1_1",
+                            "title": "مقرمشات مالحة",
+                            "description": "بروتين 4 ج  كربوهيدرات 7 ج  دهون 8 ج  116 سعر",
+                            "price": 65.58,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 4,
+                                "Carb": 7,
+                                "Fats": 8,
+                                "kcal": 116
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_week3_wednesday_snack2_1",
+                            "title": "Orange Cake with Raisins",
+                            "description": "Pro 2 g  Carb 23 g  Fats 8 g  170 kcal",
+                            "price": 95.59,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 2,
+                                "Carb": 23,
+                                "Fats": 8,
+                                "kcal": 170
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_wednesday_snack2_1",
+                            "title": "كيك برتقال بالزبيب",
+                            "description": "بروتين 2 ج  كربوهيدرات 23 ج  دهون 8 ج  170 سعر",
+                            "price": 95.59,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 2,
+                                "Carb": 23,
+                                "Fats": 8,
+                                "kcal": 170
+                            }
+                        }
+                    ]
+                }
+            },
+
+            "thursday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week3_thursday_breakfast_1",
+                            "title": "Beef Bacon Scrambled Eggs",
+                            "description": "Pro 26 g  Carb 24 g  Fats 9 g  300 kcal",
+                            "price": 111.62,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 26,
+                                "Carb": 24,
+                                "Fats": 9,
+                                "kcal": 300
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_thursday_breakfast_1",
+                            "title": "بيض مخفوق مع بيف بيكون",
+                            "description": "بروتين 26 ج  كربوهيدرات 24 ج  دهون 9 ج  300 سعر",
+                            "price": 111.62,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 26,
+                                "Carb": 24,
+                                "Fats": 9,
+                                "kcal": 300
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week3_thursday_lunch_1",
+                            "title": "Beef Liver Slices with Pepper Sauce",
+                            "description": "Pro 35 g  Carb 22 g  Fats 19 g  399 kcal",
+                            "price": 219.81,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 35,
+                                "Carb": 22,
+                                "Fats": 19,
+                                "kcal": 399
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_thursday_lunch_1",
+                            "title": "شرائح كبدة بقري مع صوص الفلفل",
+                            "description": "بروتين 35 ج  كربوهيدرات 22 ج  دهون 19 ج  399 سعر",
+                            "price": 219.81,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 35,
+                                "Carb": 22,
+                                "Fats": 19,
+                                "kcal": 399
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_week3_thursday_dinner_1",
+                            "title": "Shrimps / Veggies / Roasted Potato",
+                            "description": "Pro 35 g  Carb 33 g  Fats 8 g  344 kcal",
+                            "price": 212.02,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 35,
+                                "Carb": 33,
+                                "Fats": 8,
+                                "kcal": 344
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_thursday_dinner_1",
+                            "title": "جمبري وخضار وبطاطس مشوية",
+                            "description": "بروتين 35 ج  كربوهيدرات 33 ج  دهون 8 ج  344 سعر",
+                            "price": 212.02,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 35,
+                                "Carb": 33,
+                                "Fats": 8,
+                                "kcal": 344
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_week3_thursday_snack1_1",
+                            "title": "Cucumber Sticks & Yoghurt Salad",
+                            "description": "Pro 5 g  Carb 9 g  Fats 5 g  106 kcal",
+                            "price": 77.88,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 5,
+                                "Carb": 9,
+                                "Fats": 5,
+                                "kcal": 106
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_thursday_snack1_1",
+                            "title": "أعواد خيار وسلطة زبادي",
+                            "description": "بروتين 5 ج  كربوهيدرات 9 ج  دهون 5 ج  106 سعر",
+                            "price": 77.88,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 5,
+                                "Carb": 9,
+                                "Fats": 5,
+                                "kcal": 106
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_week3_thursday_snack2_1",
+                            "title": "PB & Maple Syrup Crepe",
+                            "description": "Pro 6 g  Carb 25 g  Fats 7 g  187 kcal",
+                            "price": 22.0,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 6,
+                                "Carb": 25,
+                                "Fats": 7,
+                                "kcal": 187
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week3_thursday_snack2_1",
+                            "title": "كريب بزبدة الفول وعسل القيقب",
+                            "description": "بروتين 6 ج  كربوهيدرات 25 ج  دهون 7 ج  187 سعر",
+                            "price": 22.0,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 6,
+                                "Carb": 25,
+                                "Fats": 7,
+                                "kcal": 187
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "week4": {
+            "saturday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week4_saturday_breakfast_1",
+                            "title": "Fruits / PB / honey bread",
+                            "description": "Pro 11 g  Carb 36 g  Fats 17 g  315 kcal",
+                            "price": 67.55,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 11,
+                                "Carb": 36,
+                                "Fats": 17,
+                                "kcal": 315
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_saturday_breakfast_1",
+                            "title": "فراولة بزبدة الفول السوداني",
+                            "description": "بروتين 11 ج  كربوهيدرات 36 ج  دهون 17 ج  315 سعر",
+                            "price": 67.55,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 11,
+                                "Carb": 36,
+                                "Fats": 17,
+                                "kcal": 315
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week4_saturday_lunch_1",
+                            "title": "Chicken Pane (with breading) + sautéed veggies",
+                            "description": "Pro 46 g  Carb 20 g  Fats 18 g  426 kcal",
+                            "price": 102.59,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 46,
+                                "Carb": 20,
+                                "Fats": 18,
+                                "kcal": 426
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_saturday_lunch_1",
+                            "title": "دجاج بانيه مع خضار سوتيه",
+                            "description": "بروتين 46 ج  كربوهيدرات 20 ج  دهون 18 ج  426 سعر",
+                            "price": 102.59,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 46,
+                                "Carb": 20,
+                                "Fats": 18,
+                                "kcal": 426
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_week4_saturday_dinner_1",
+                            "title": "Grilled Haloumi Wrap",
+                            "description": "Pro 22 g  Carb 23 g  Fats 29 g  441 kcal",
+                            "price": 167.76,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 22,
+                                "Carb": 23,
+                                "Fats": 29,
+                                "kcal": 441
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_saturday_dinner_1",
+                            "title": "رول حلومي مشوي",
+                            "description": "بروتين 22 ج  كربوهيدرات 23 ج  دهون 29 ج  441 سعر",
+                            "price": 167.76,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 22,
+                                "Carb": 23,
+                                "Fats": 29,
+                                "kcal": 441
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_week4_saturday_snack1_1",
+                            "title": "Boiled Corn (150 g) + 5 g butter + spices",
+                            "description": "Pro 6 g  Carb 22 g  Fats 5 g  157 kcal",
+                            "price": 15.05,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 6,
+                                "Carb": 22,
+                                "Fats": 5,
+                                "kcal": 157
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_saturday_snack1_1",
+                            "title": "ذُرة مسلوقة",
+                            "description": "بروتين 6 ج  كربوهيدرات 22 ج  دهون 5 ج  157 سعر",
+                            "price": 15.05,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 6,
+                                "Carb": 22,
+                                "Fats": 5,
+                                "kcal": 157
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_week4_saturday_snack2_1",
+                            "title": "Orange Crepe",
+                            "description": "Pro 9 g  Carb 32 g  Fats 6 g  218 kcal",
+                            "price": 29.23,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 9,
+                                "Carb": 32,
+                                "Fats": 6,
+                                "kcal": 218
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_saturday_snack2_1",
+                            "title": "كريب برتقال",
+                            "description": "بروتين 9 ج  كربوهيدرات 32 ج  دهون 6 ج  218 سعر",
+                            "price": 29.23,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 9,
+                                "Carb": 32,
+                                "Fats": 6,
+                                "kcal": 218
+                            }
+                        }
+                    ]
+                }
+            },
+
+            "sunday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week4_sunday_breakfast_1",
+                            "title": "Fried Eggs / Grilled Veggies",
+                            "description": "Pro 14.5 g  Carb 7 g  Fats 25 g  311 kcal",
+                            "price": 92.85,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 14.5,
+                                "Carb": 7,
+                                "Fats": 25,
+                                "kcal": 311
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_sunday_breakfast_1",
+                            "title": "بيض بالخضار",
+                            "description": "بروتين 14.5 ج  كربوهيدرات 7 ج  دهون 25 ج  311 سعر",
+                            "price": 92.85,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 14.5,
+                                "Carb": 7,
+                                "Fats": 25,
+                                "kcal": 311
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week4_sunday_lunch_1",
+                            "title": "Spring vegetable soup & Ribeye steak",
+                            "description": "Pro 32 g  Carb 33 g  Fats 19.5 g  435.5 kcal",
+                            "price": 165.49,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 32,
+                                "Carb": 33,
+                                "Fats": 19.5,
+                                "kcal": 435.5
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_sunday_lunch_1",
+                            "title": "شوربة خضار الربيع مع شريحة لحم",
+                            "description": "بروتين 32 ج  كربوهيدرات 33 ج  دهون 19.5 ج  435.5 سعر",
+                            "price": 165.49,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 32,
+                                "Carb": 33,
+                                "Fats": 19.5,
+                                "kcal": 435.5
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_week4_sunday_dinner_1",
+                            "title": "Minced Chicken / Quinoa",
+                            "description": "Pro 52 g  Carb 30 g  Fats 10 g  418 kcal",
+                            "price": 189.15,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 52,
+                                "Carb": 30,
+                                "Fats": 10,
+                                "kcal": 418
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_sunday_dinner_1",
+                            "title": "دجاج مفروم مع كينوا",
+                            "description": "بروتين 52 ج  كربوهيدرات 30 ج  دهون 10 ج  418 سعر",
+                            "price": 189.15,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 52,
+                                "Carb": 30,
+                                "Fats": 10,
+                                "kcal": 418
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_week4_sunday_snack1_1",
+                            "title": "Mixed Raw Nuts",
+                            "description": "Pro 5 g  Carb 6 g  Fats 14 g  170 kcal",
+                            "price": 42.0,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 5,
+                                "Carb": 6,
+                                "Fats": 14,
+                                "kcal": 170
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_sunday_snack1_1",
+                            "title": "مكسرات نيئة مشكلة",
+                            "description": "بروتين 5 ج  كربوهيدرات 6 ج  دهون 14 ج  170 سعر",
+                            "price": 42.0,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 5,
+                                "Carb": 6,
+                                "Fats": 14,
+                                "kcal": 170
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_week4_sunday_snack2_1",
+                            "title": "Strawberry Juice (bottle)",
+                            "description": "Pro 0.5 g  Carb 15 g  Fats 0 g  62 kcal",
+                            "price": 33.6,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 0.5,
+                                "Carb": 15,
+                                "Fats": 0,
+                                "kcal": 62
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_sunday_snack2_1",
+                            "title": "ميلك شيك فراولة",
+                            "description": "بروتين 0.5 ج  كربوهيدرات 15 ج  دهون 0 ج  62 سعر",
+                            "price": 33.6,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 0.5,
+                                "Carb": 15,
+                                "Fats": 0,
+                                "kcal": 62
+                            }
+                        }
+                    ]
+                }
+            },
+
+            "monday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week4_monday_breakfast_1",
+                            "title": "Greek Yoghurt Mix",
+                            "description": "Pro 24 g  Carb 28 g  Fats 14 g  334 kcal",
+                            "price": 33.34,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 24,
+                                "Carb": 28,
+                                "Fats": 14,
+                                "kcal": 334
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_monday_breakfast_1",
+                            "title": "زبادي يوناني مكس",
+                            "description": "بروتين 24 ج  كربوهيدرات 28 ج  دهون 14 ج  334 سعر",
+                            "price": 33.34,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 24,
+                                "Carb": 28,
+                                "Fats": 14,
+                                "kcal": 334
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week4_monday_lunch_1",
+                            "title": "Mediterranean Chicken Meatballs",
+                            "description": "Pro 49 g  Carb 36 g  Fats 10 g  430 kcal",
+                            "price": 144.14,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 49,
+                                "Carb": 36,
+                                "Fats": 10,
+                                "kcal": 430
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_monday_lunch_1",
+                            "title": "كرات لحم دجاج البحر المتوسط",
+                            "description": "بروتين 49 ج  كربوهيدرات 36 ج  دهون 10 ج  430 سعر",
+                            "price": 144.14,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 49,
+                                "Carb": 36,
+                                "Fats": 10,
+                                "kcal": 430
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_week4_monday_dinner_1",
+                            "title": "Spanish Omelette with Avocado",
+                            "description": "Pro 22 g  Carb 8 g  Fats 36 g  444 kcal",
+                            "price": 121.47,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 22,
+                                "Carb": 8,
+                                "Fats": 36,
+                                "kcal": 444
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_monday_dinner_1",
+                            "title": "أومليت إسباني مع أفوكادو",
+                            "description": "بروتين 22 ج  كربوهيدرات 8 ج  دهون 36 ج  444 سعر",
+                            "price": 121.47,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 22,
+                                "Carb": 8,
+                                "Fats": 36,
+                                "kcal": 444
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_week4_monday_snack1_1",
+                            "title": "Lentil Soup",
+                            "description": "Pro 12 g  Carb 28 g  Fats 4 g  196 kcal",
+                            "price": 33.56,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 12,
+                                "Carb": 28,
+                                "Fats": 4,
+                                "kcal": 196
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_monday_snack1_1",
+                            "title": "شوربة عدس",
+                            "description": "بروتين 12 ج  كربوهيدرات 28 ج  دهون 4 ج  196 سعر",
+                            "price": 33.56,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 12,
+                                "Carb": 28,
+                                "Fats": 4,
+                                "kcal": 196
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_week4_monday_snack2_1",
+                            "title": "Cinnamon Dates Cake",
+                            "description": "Pro 4 g  Carb 22 g  Fats 4 g  140 kcal",
+                            "price": 166.25,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 4,
+                                "Carb": 22,
+                                "Fats": 4,
+                                "kcal": 140
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_monday_snack2_1",
+                            "title": "كيكة التمر والقرفة",
+                            "description": "بروتين 4 ج  كربوهيدرات 22 ج  دهون 4 ج  140 سعر",
+                            "price": 166.25,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 4,
+                                "Carb": 22,
+                                "Fats": 4,
+                                "kcal": 140
+                            }
+                        }
+                    ]
+                }
+            },
+
+            "tuesday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week4_tuesday_breakfast_1",
+                            "title": "Chocolate Crepe + Nuts",
+                            "description": "Pro 12 g  Carb 35 g  Fats 17 g  341 kcal",
+                            "price": 292.99,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 12,
+                                "Carb": 35,
+                                "Fats": 17,
+                                "kcal": 341
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_tuesday_breakfast_1",
+                            "title": "كريب شوكولاتة بالمكسرات",
+                            "description": "بروتين 12 ج  كربوهيدرات 35 ج  دهون 17 ج  341 سعر",
+                            "price": 292.99,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 12,
+                                "Carb": 35,
+                                "Fats": 17,
+                                "kcal": 341
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week4_tuesday_lunch_1",
+                            "title": "Chicken Caesar Salad",
+                            "description": "Pro 44 g  Carb 31 g  Fats 18 g  462 kcal",
+                            "price": 170.0,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 44,
+                                "Carb": 31,
+                                "Fats": 18,
+                                "kcal": 462
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_tuesday_lunch_1",
+                            "title": "سلطة سيزر بالدجاج",
+                            "description": "بروتين 44 ج  كربوهيدرات 31 ج  دهون 18 ج  462 سعر",
+                            "price": 170.0,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 44,
+                                "Carb": 31,
+                                "Fats": 18,
+                                "kcal": 462
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_week4_tuesday_dinner_1",
+                            "title": "Low-Carb Eggplant Pizza",
+                            "description": "Pro 16 g  Carb 17 g  Fats 33 g  429 kcal",
+                            "price": 92.75,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 16,
+                                "Carb": 17,
+                                "Fats": 33,
+                                "kcal": 429
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_tuesday_dinner_1",
+                            "title": "بيتزا باذنجان قليلة الكربوهيدرات",
+                            "description": "بروتين 16 ج  كربوهيدرات 17 ج  دهون 33 ج  429 سعر",
+                            "price": 92.75,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 16,
+                                "Carb": 17,
+                                "Fats": 33,
+                                "kcal": 429
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_week4_tuesday_snack1_1",
+                            "title": "Minced-Beef Sambousak",
+                            "description": "Pro 10 g  Carb 9 g  Fats 12 g  184 kcal",
+                            "price": 27.79,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 10,
+                                "Carb": 9,
+                                "Fats": 12,
+                                "kcal": 184
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_tuesday_snack1_1",
+                            "title": "سمبوسك لحم بقري مفروم",
+                            "description": "بروتين 10 ج  كربوهيدرات 9 ج  دهون 12 ج  184 سعر",
+                            "price": 27.79,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 10,
+                                "Carb": 9,
+                                "Fats": 12,
+                                "kcal": 184
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_week4_tuesday_snack2_1",
+                            "title": "Fruit Salad (mango juice)",
+                            "description": "Pro 0.8 g  Carb 39 g  Fats 0 g  156.5 kcal",
+                            "price": 24.59,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 0.8,
+                                "Carb": 39,
+                                "Fats": 0,
+                                "kcal": 156.5
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_tuesday_snack2_1",
+                            "title": "سلطة فواكه بصوص المانجو",
+                            "description": "بروتين 0.8 ج  كربوهيدرات 39 ج  دهون 0 ج  156.5 سعر",
+                            "price": 24.59,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 0.8,
+                                "Carb": 39,
+                                "Fats": 0,
+                                "kcal": 156.5
+                            }
+                        }
+                    ]
+                }
+            },
+
+            "wednesday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week4_wednesday_breakfast_1",
+                            "title": "Sweet Topping / Labnah / bread",
+                            "description": "Pro 13 g  Carb 40 g  Fats 9 g  293 kcal",
+                            "price": 100.1,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 13,
+                                "Carb": 40,
+                                "Fats": 9,
+                                "kcal": 293
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_wednesday_breakfast_1",
+                            "title": "ساندويتش لبنة بالفراولة",
+                            "description": "بروتين 13 ج  كربوهيدرات 40 ج  دهون 9 ج  293 سعر",
+                            "price": 100.1,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 13,
+                                "Carb": 40,
+                                "Fats": 9,
+                                "kcal": 293
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week4_wednesday_lunch_1",
+                            "title": "Spaghetti Bolognese",
+                            "description": "Pro 21 g  Carb 55 g  Fats 13 g  421 kcal",
+                            "price": 243.53,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 21,
+                                "Carb": 55,
+                                "Fats": 13,
+                                "kcal": 421
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_wednesday_lunch_1",
+                            "title": "مكرونة سباجيتي بولونيز",
+                            "description": "بروتين 21 ج  كربوهيدرات 55 ج  دهون 13 ج  421 سعر",
+                            "price": 243.53,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 21,
+                                "Carb": 55,
+                                "Fats": 13,
+                                "kcal": 421
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_week4_wednesday_dinner_1",
+                            "title": "Greek Salad",
+                            "description": "Pro 13 g  Carb 19 g  Fats 28 g  380 kcal",
+                            "price": 94.5,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 13,
+                                "Carb": 19,
+                                "Fats": 28,
+                                "kcal": 380
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_wednesday_dinner_1",
+                            "title": "سلطة يونانية",
+                            "description": "بروتين 13 ج  كربوهيدرات 19 ج  دهون 28 ج  380 سعر",
+                            "price": 94.5,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 13,
+                                "Carb": 19,
+                                "Fats": 28,
+                                "kcal": 380
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_week4_wednesday_snack1_1",
+                            "title": "Chicken Spring Rolls",
+                            "description": "Pro 15 g  Carb 29 g  Fats 8 g  248 kcal",
+                            "price": 50.22,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 15,
+                                "Carb": 29,
+                                "Fats": 8,
+                                "kcal": 248
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_wednesday_snack1_1",
+                            "title": "سبرنج رول بالدجاج",
+                            "description": "بروتين 15 ج  كربوهيدرات 29 ج  دهون 8 ج  248 سعر",
+                            "price": 50.22,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 15,
+                                "Carb": 29,
+                                "Fats": 8,
+                                "kcal": 248
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_week4_wednesday_snack2_1",
+                            "title": "Coconut Cookies",
+                            "description": "Pro 2 g  Carb 16 g  Fats 10 g  162 kcal",
+                            "price": 161.47,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 2,
+                                "Carb": 16,
+                                "Fats": 10,
+                                "kcal": 162
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_wednesday_snack2_1",
+                            "title": "كوكيز جوز الهند",
+                            "description": "بروتين 2 ج  كربوهيدرات 16 ج  دهون 10 ج  162 سعر",
+                            "price": 161.47,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 2,
+                                "Carb": 16,
+                                "Fats": 10,
+                                "kcal": 162
+                            }
+                        }
+                    ]
+                }
+            },
+
+            "thursday": {
+                "packaging": 110.08,
+                "breakfast": {
+                    "en": [
+                        {
+                            "id": "1400_week4_thursday_breakfast_1",
+                            "title": "Cottage / Veggies Sandwich",
+                            "description": "Pro 19 g  Carb 32 g  Fats 14 g  330 kcal",
+                            "price": 125.96,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 19,
+                                "Carb": 32,
+                                "Fats": 14,
+                                "kcal": 330
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_thursday_breakfast_1",
+                            "title": "ساندويتش جبنة بالخضار",
+                            "description": "بروتين 19 ج  كربوهيدرات 32 ج  دهون 14 ج  330 سعر",
+                            "price": 125.96,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 19,
+                                "Carb": 32,
+                                "Fats": 14,
+                                "kcal": 330
+                            }
+                        }
+                    ]
+                },
+                "lunch": {
+                    "en": [
+                        {
+                            "id": "1400_week4_thursday_lunch_1",
+                            "title": "Chicken Fajita (rice • salad • shredded cheese)",
+                            "description": "Pro 38 g  Carb 39 g  Fats 21 g  497 kcal",
+                            "price": 172.99,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 38,
+                                "Carb": 39,
+                                "Fats": 21,
+                                "kcal": 497
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_thursday_lunch_1",
+                            "title": "فاهيتا دجاج",
+                            "description": "بروتين 38 ج  كربوهيدرات 39 ج  دهون 21 ج  497 سعر",
+                            "price": 172.99,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 38,
+                                "Carb": 39,
+                                "Fats": 21,
+                                "kcal": 497
+                            }
+                        }
+                    ]
+                },
+                "dinner": {
+                    "en": [
+                        {
+                            "id": "1400_week4_thursday_dinner_1",
+                            "title": "Fish Fillet / Broccoli",
+                            "description": "Pro 46 g  Carb 10 g  Fats 20 g  404 kcal",
+                            "price": 111.41,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 46,
+                                "Carb": 10,
+                                "Fats": 20,
+                                "kcal": 404
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_thursday_dinner_1",
+                            "title": "سمك فيليه مع بروكلي",
+                            "description": "بروتين 46 ج  كربوهيدرات 10 ج  دهون 20 ج  404 سعر",
+                            "price": 111.41,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 46,
+                                "Carb": 10,
+                                "Fats": 20,
+                                "kcal": 404
+                            }
+                        }
+                    ]
+                },
+                "snack1": {
+                    "en": [
+                        {
+                            "id": "1400_week4_thursday_snack1_1",
+                            "title": "Rice Chips + Hummus Dip",
+                            "description": "Pro 6 g  Carb 18 g  Fats 11 g  195 kcal",
+                            "price": 24.42,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 6,
+                                "Carb": 18,
+                                "Fats": 11,
+                                "kcal": 195
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_thursday_snack1_1",
+                            "title": "رقائق أرز مع صوص الحمص",
+                            "description": "بروتين 6 ج  كربوهيدرات 18 ج  دهون 11 ج  195 سعر",
+                            "price": 24.42,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 6,
+                                "Carb": 18,
+                                "Fats": 11,
+                                "kcal": 195
+                            }
+                        }
+                    ]
+                },
+                "snack2": {
+                    "en": [
+                        {
+                            "id": "1400_week4_thursday_snack2_1",
+                            "title": "Om Ali",
+                            "description": "Pro 1 g  Carb 7 g  Fats 2 g  50 kcal",
+                            "price": 110.4,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 1,
+                                "Carb": 7,
+                                "Fats": 2,
+                                "kcal": 50
+                            }
+                        }
+                    ],
+                    "ar": [
+                        {
+                            "id": "1400_week4_thursday_snack2_1",
+                            "title": "أم علي بالشوفان والموز",
+                            "description": "بروتين 1 ج  كربوهيدرات 7 ج  دهون 2 ج  50 سعر",
+                            "price": 110.4,
+                            "image": "./7.jpg",
+                            "nutrition": {
+                                "Pro": 1,
+                                "Carb": 7,
+                                "Fats": 2,
+                                "kcal": 50
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
