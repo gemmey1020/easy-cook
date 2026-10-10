@@ -1,9 +1,14 @@
 {
-    "name": "laravel/laravel",
+    "name": "gemmey1020/easy-cook",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
-    "license": "MIT",
+    "description": "Easy Cook meal planning, subscription, and delivery application.",
+    "keywords": [
+        "easy-cook",
+        "meal-planning",
+        "laravel",
+        "subscriptions"
+    ],
+    "license": "UNLICENSED",
     "require": {
         "php": "^8.1",
         "barryvdh/laravel-dompdf": "^3.1",
@@ -32,7 +37,6 @@
             "Database\\Seeders\\": "database/seeders/",
             "App\\Helpers\\": "app/Helpers/"
         }
-
     },
     "autoload-dev": {
         "psr-4": {
